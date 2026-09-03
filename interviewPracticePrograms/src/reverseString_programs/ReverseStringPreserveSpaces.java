@@ -3,7 +3,7 @@ package reverseString_programs;
 public class ReverseStringPreserveSpaces {
     public static void main(String[] args) {
 
-        String str = "Hello World";
+        String str = "Hello Worlds";
         char[] arr = str.toCharArray();
 
         int j = arr.length - 1;
